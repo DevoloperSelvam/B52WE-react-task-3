@@ -84,7 +84,7 @@ function End() {
                     </div>
                 </Col>
             </Row>
-            <h6>
+            <h6 id='h6'>
                 © Your Website 2023. All Rights Reserved.
             </h6>
         </div>
