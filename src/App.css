@@ -1,0 +1,210 @@
+.navone {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+  font-size: 12px;
+  opacity: 0.5;
+
+}
+
+.navtwo {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.navthree {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
+
+}
+
+button {
+  border: none;
+  background-color: white;
+}
+
+#op {
+  margin: 0 4px;
+}
+
+#op:hover {
+  background-color: rgb(234, 234, 234);
+  border-radius: 20px;
+  width: 45px;
+  height: 45px;
+}
+
+.huge {
+  width: initial;
+  padding: 20px;
+  border-bottom: solid red 2px;
+  height: 70px;
+}
+
+#off {
+  color: red !important;
+  background-color: rgb(246, 225, 225);
+  border-radius: 5px;
+  font-size: small;
+  margin: 0 10px;
+}
+
+
+.Hilight {
+
+  text-align: center;
+  background-color: rgb(33, 32, 32);
+  color: white;
+  height: 300px;
+  padding: 48px 0px;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+.range {
+  margin: 48px 40px;
+
+}
+
+.goat {
+  margin: 100px;
+  display: flex;
+  display: wrap;
+}
+
+.add {
+  border-radius: 6px;
+}
+
+.add:hover {
+  background-color: rgb(61, 62, 60);
+  color: white;
+}
+
+
+.water {
+  height: 600px;
+  width: 100%;
+}
+
+.pos {
+  position: absolute;
+  top: 300px;
+  left: 20%;
+  color: white;
+  width: 900px;
+  height: 110px;
+  text-align: center;
+  font-size: 3rem;
+  justify-content: center;
+}
+
+.fd {
+  position: absolute;
+  top: 450px;
+  left: 30%;
+
+}
+
+.fd2 {
+  width: 400px;
+  border-radius: 15px;
+  height: 60px;
+  margin: 25px;
+  justify-content: center;
+}
+
+
+#class {
+  height: 60px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.arange {
+  text-align: center;
+
+  padding: 70px;
+}
+
+.size {
+  background-size: cover;
+  width: 50%;
+}
+
+.cd {
+  text-align: left;
+  padding: 170px;
+
+}
+
+.sixe-2 {
+  width: 30%;
+}
+
+#hops {
+  border-radius: 300px;
+}
+
+.too {
+  text-align: center;
+  padding: 130px 0 0 0;
+}
+
+.latest {
+  background-color: rgb(75, 236, 236);
+  height: 300px;
+}
+
+.late {
+  color: white;
+  padding-top: 100px;
+  padding-left: 30%;
+}
+
+.foo {
+  padding-left: 25%;
+}
+
+.foo2 {
+  width: 500px;
+  border-radius: 15px;
+  height: 60px;
+  margin: 25px;
+  border: none;
+
+}
+
+.gapp {
+  display: flex;
+  padding-left: 450px;
+
+
+}
+
+#gapp {
+  padding: 0 20px 0 20px;
+}
+
+.cross {
+  padding-top: 80px;
+
+}
+
+h6 {
+  opacity: 0.5;
+  padding-left: 118px;
+  padding-bottom: 60px;
+}
